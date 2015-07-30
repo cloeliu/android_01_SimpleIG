@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 * [x] User can **scroll through current popular photos** from Instagram
 * [x] For each photo displayed, user can see the following details:
   * [x] Graphic, Caption, Username
-  * [ ] (Optional) Relative timestamp, like count, user profile image
+  * [ ] Optional: Relative timestamp, like count, user profile image
 
 The following **optional** features are implemented:
 
@@ -50,7 +50,7 @@ none.
 
 ## License
 
-    Copyright [2105] [cloeliu]
+    Copyright [2015] [cloeliu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
